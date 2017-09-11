@@ -3,7 +3,35 @@
         "apps": [],
         "details": [
             {
-                "appID": "HCTZ8VKJ47.com.xiaojukeji.espx",
+                "appID": "B83JBVZ6M5.com.baidu.BaiduMobile",
+                "paths": ["*"]
+            },
+            {
+                "appID": "LN277EMU87.com.baidu.BaiduMobileDev",
+                "paths": ["*"]
+            },
+            {
+                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseA",
+                "paths": ["*"]
+            },
+            {
+                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseB",
+                "paths": ["*"]
+            },
+            {
+                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseC",
+                "paths": ["*"]
+            },
+            {
+                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseD",
+                "paths": ["*"]
+            },
+            {
+                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseE",
+                "paths": ["*"]
+            },
+            {
+                "appID": "C789GLWV85.com.baidu.BaiduMobileEnterpriseF",
                 "paths": ["*"]
             }
         ]
